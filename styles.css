@@ -1,2 +1,21 @@
-
+nav{
+	
+	width:100%;
+	background-color:turquoise;
+	
+}
+ul{
+	list-style-type:none;
+	overflow:hidden;
+}
+img{
+	width:450px;
+	height:300px;
+}
+li{
+	text-decoration:none;
+	float:left;
+	width:15%;
+	padding:20px;
+}
 /* Your CSS Code here. */
